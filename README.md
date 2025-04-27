@@ -1,5 +1,5 @@
-# Data-Science-Course
-
+# Data Science Course | Amazon Delivery Analysis
+ 
 For this Data Science Course capstone project, I investigate how weather conditions, area type (urban vs. rural), and traffic congestion impact Amazon delivery times. 
 
 By sourcing a deliver attribute relevant dataset, I this clean and explore the data, develop visualizations to identify key trends, and create a numerical model to predict delivery times. 
