@@ -1,27 +1,48 @@
-# Data Science Course | Amazon Delivery Analysis
- 
-For this Data Science Course capstone project, I investigate how weather conditions, area type (urban vs. rural), and traffic congestion impact Amazon delivery times. 
+# Amazon Delivery Performance Analytics 📦
 
-By sourcing a deliver attribute relevant dataset, I this clean and explore the data, develop visualizations to identify key trends, and create a numerical model to predict delivery times. 
+Understanding the factors that drive delivery performance in modern logistics through data science.
 
-I apply model validation techniques and provide explanatory visuals to highlight insights, aiming to understand how these factors contribute to delivery delays.
+## Project Overview
 
+This comprehensive analysis examines how environmental and geographical factors impact Amazon delivery times. Using machine learning techniques, I've built a predictive model that identifies the key drivers behind delivery delays, providing actionable insights for logistics optimisation.
 
-Introduction : Overview of the problem and hypothesis
+**Key Question**: How do weather conditions, urban versus rural locations, and traffic patterns affect delivery performance?
 
-Data Sourcing : Dataset description and relevant features
+## What You'll Find Here
 
-Data Cleaning : Data preprocessing methods
+### 🔍 **Problem Definition**
+Clear hypothesis development around delivery time factors and their business impact
 
-Exploratory Data Analysis: Visualizing trends and relationships, key visuals to explain insights
+### 📊 **Data Engineering** 
+Robust data sourcing, cleaning, and preprocessing workflows that handle real-world data challenges
 
-Model Development :  Chosen model and prediction approach
+### 🎯 **Exploratory Analysis**
+Interactive visualisations and statistical analysis revealing hidden patterns in delivery performance
 
-Model Validation : Validation techniques and results
+### 🤖 **Predictive Modelling**
+Machine learning pipeline development with feature engineering and model selection
 
-Key Insights : Summary of findings and implications
+### ✅ **Model Validation**
+Rigorous testing methodologies ensuring model reliability and generalisability
 
-Conclusion and Next Steps : Recap and future recommendations
+### 💡 **Business Insights**
+Data-driven recommendations with clear visualisations explaining the 'why' behind the findings
 
+### 🚀 **Strategic Recommendations**
+Actionable next steps and implementation roadmap for delivery optimisation
 
+## Technical Approach
 
+Built entirely in Python using Jupyter Notebooks, this project demonstrates end-to-end data science capabilities from initial hypothesis through to deployment-ready insights. The analysis combines statistical rigour with clear business storytelling.
+
+## Impact & Applications
+
+The methodologies and insights developed here are directly applicable to:
+- Supply chain optimisation
+- Logistics planning
+- Operational efficiency improvements
+- Customer experience enhancement
+
+---
+
+*This project showcases practical data science skills applied to real-world logistics challenges, demonstrating both technical proficiency and business acumen.*
