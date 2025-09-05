@@ -10,25 +10,25 @@ This comprehensive analysis examines how environmental and geographical factors 
 
 ## What You'll Find Here
 
-### 🔍 **Problem Definition**
+### **Problem Definition**
 Clear hypothesis development around delivery time factors and their business impact
 
-### 📊 **Data Engineering** 
+### **Data Engineering** 
 Robust data sourcing, cleaning, and preprocessing workflows that handle real-world data challenges
 
-### 🎯 **Exploratory Analysis**
+### **Exploratory Analysis**
 Interactive visualisations and statistical analysis revealing hidden patterns in delivery performance
 
-### 🤖 **Predictive Modelling**
+### **Predictive Modelling**
 Machine learning pipeline development with feature engineering and model selection
 
-### ✅ **Model Validation**
+### **Model Validation**
 Rigorous testing methodologies ensuring model reliability and generalisability
 
-### 💡 **Business Insights**
+### **Business Insights**
 Data-driven recommendations with clear visualisations explaining the 'why' behind the findings
 
-### 🚀 **Strategic Recommendations**
+### **Strategic Recommendations**
 Actionable next steps and implementation roadmap for delivery optimisation
 
 ## Technical Approach
